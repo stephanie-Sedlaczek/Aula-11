@@ -1,0 +1,27 @@
+footer{
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    height: 100px;
+    background-color: aquamarine;
+}
+#conteudo{
+    background-color: bisque;
+    height: 1000px;
+}
+nav{
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    background-color: brown;
+    left: 0px;
+    width: 100%;
+}
+nav a{
+    padding: 5px;
+    color: blueviolet;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: antiquewhite;
+}
